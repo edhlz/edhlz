@@ -1,16 +1,32 @@
-### Hi there 👋
+<br />
+<h1 align="center">
+  Olá, sou o edhlz 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/)
+  <br />
+</h1>
+<br />
 
-<!--
-**edhlz/edhlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Programação`**
 
-Here are some ideas to get you started:
+Eu possuo 16 de idade e sou um entusiasta dedicado à programação. Atualmente, estou no inicio da minha jornada nesse campo e tenho conhecimentos básicos. Desejo ampliar meu domínio em diversas linguagens de programação e estou constantemente em busca de oportunidades para aprimorar minhas habilidades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<img loading="lazy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh0NW5jamt3anV3MzRoMjR0MThhMnY5cjNzNmo0cTQyMGEzNjhicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" align="center" width="700"/>
+
+<hr/> 
+<h2>📖 Linguagens que estou aprendendo </h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,c#" /><br>
+</div>
+<br/>
+
+<h2>📚 Linguagens que pretendo aprender </h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=python,js,rust,html,css" /><br>
+</div>
+
+<br/>
+<hr/>
