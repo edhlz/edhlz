@@ -18,15 +18,26 @@ Eu possuo 16 de idade e sou um entusiasta dedicado à programação. Atualmente,
 <h2>📖 Linguagens que estou aprendendo </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,c#" /><br>
 </div>
 <br/>
 
 <h2>📚 Linguagens que pretendo aprender </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,js,rust,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,rust,kotlin" /><br>
 </div>
 
 <br/>
 <hr/>
+<h2>📊 Minhas estatística </h2>
+<br/>
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=SantioMC&theme=dark) <img align=top src="https://github-readme-stats.vercel.app/api?username=SantioMC&theme=dark">  
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantioMC&theme=dark">  
+</div> 
+
+
+
