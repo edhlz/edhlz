@@ -9,7 +9,7 @@
 
 **`Estudante de Programação`**
 
-Eu possuo 16 de idade e sou um entusiasta dedicado à programação. Atualmente, estou no inicio da minha jornada nesse campo e tenho conhecimentos básicos. Desejo ampliar meu domínio em diversas linguagens de programação e estou constantemente em busca de oportunidades para aprimorar minhas habilidades.
+Eu sou um jovem de 16 anos e sou um entusiasta dedicado à programação. Atualmente, estou no inicio da minha jornada nesse campo e tenho conhecimentos básicos. Desejo ampliar meu domínio em diversas linguagens de programação e estou constantemente em busca de oportunidades para aprimorar minhas habilidades.
 
 <hr/>
 <img loading="lazy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzh0NW5jamt3anV3MzRoMjR0MThhMnY5cjNzNmo0cTQyMGEzNjhicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KpACNEh8jXK2Q/giphy.gif" align="center" width="700"/>
