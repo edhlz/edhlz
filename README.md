@@ -25,7 +25,7 @@ Eu sou um jovem de 16 anos e sou um entusiasta dedicado à programação. Atualm
 <h2>📚 Linguagens que pretendo aprender </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,js,rust,kotlin,java" /><br>
+    <img src="https://skillicons.dev/icons?i=js,rust,kotlin,java" /><br>
 </div>
 
 <br/>
