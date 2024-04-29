@@ -18,14 +18,14 @@ Eu sou um jovem de 16 anos e sou um entusiasta dedicado à programação. Atualm
 <h2>📖 Linguagens que estou aprendendo </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=java,html,css,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=py,html,css,c#" /><br>
 </div>
 <br/>
 
 <h2>📚 Linguagens que pretendo aprender </h2>
 <br/>
 <div>
-    <img src="https://skillicons.dev/icons?i=python,js,rust,kotlin,py" /><br>
+    <img src="https://skillicons.dev/icons?i=python,js,rust,kotlin,java" /><br>
 </div>
 
 <br/>
