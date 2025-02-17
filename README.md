@@ -18,7 +18,7 @@
 <h2 align="center">📖 Linguagens que estou aprendendo </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,py,html,css,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,dart,c#" /><br>
 </div>
 <br/>
 
