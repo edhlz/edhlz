@@ -15,14 +15,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edhlz&theme=github-compact&hide_border=true&hide_title=true&line=ffffff&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<h2 align="center">📖 Linguagens/techs que estou aprendendo/uso </h2>
+<h2 align="center">📖 Tecnologias que estou aprendendo e usando </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,svelte,py,dart,c#" /><br>
 </div>
 <br/>
 
-<h2 align="center">📚 Linguagens que pretendo aprender </h2>
+<h2 align="center">📚 Tecnologias que pretendo aprender </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=rust,kotlin,java" /><br>
