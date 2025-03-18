@@ -14,7 +14,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edhlz&theme=github-compact&hide_border=true&hide_title=true&line=ffffff&color=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
-<h2 align="center">Tecnologias que estou aprendendo e usando</h2>
+<h2 align="center">Tech stack</h2>
 <br/>
 <br/>
 
